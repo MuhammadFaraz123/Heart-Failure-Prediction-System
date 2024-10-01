@@ -56,7 +56,7 @@ To get a local copy up and running, follow these steps:
   
 ### Clone the Repository
 
-git clone https://github.com/your-username/heart-failure-prediction-system.git
+git clone https://github.com/MuhammadFaraz123/Heart-Failure-Prediction-System.git
 cd heart-failure-prediction-system
 
 ### Create a Virtual Enviroment
